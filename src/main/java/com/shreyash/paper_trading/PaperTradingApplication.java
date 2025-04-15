@@ -8,6 +8,7 @@ public class PaperTradingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PaperTradingApplication.class, args);
+		System.out.println("Application is live");
 	}
 
 }
